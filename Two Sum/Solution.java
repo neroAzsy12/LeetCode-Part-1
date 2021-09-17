@@ -1,6 +1,5 @@
-package Java;
 import java.util.*;
-public class TwoSum{
+public class Solution{
     /* 
     * since this approach uses HashMap, the operations containsKey(), get(), and put() are O(1) which is constant time
     * there is only one for loop, it runs in O(n), where n is the num of elements in nums
