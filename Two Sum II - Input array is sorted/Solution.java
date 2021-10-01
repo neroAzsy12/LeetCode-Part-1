@@ -1,5 +1,6 @@
 public class Solution {
     // numbers is sorted, so we can use a two pointer approach to solve the problem
+    // Time Complexity: O(n), Space Complexity O(n)
     public int[] twoSum(int[] numbers, int target) {
         int right = 0;                  // right pointer, starting from the begining of numbers, moves towards the end
         int left = numbers.length - 1;  // left pointer, starting from the end of numbers, moves towards the start
