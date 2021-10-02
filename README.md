@@ -7,6 +7,7 @@
 | 3 | Longest Substring Without Repeating Characters |
 | 48 | Rotate Image |
 | 49 | Group Anagrams |
+| 74 | Search a 2D Matrix |
 | 167 | Two Sum II - Input Array is Sorted |
 | 170 | Two Sum III - Data Structure Design |
 | 175 | Combine Two Tables |
