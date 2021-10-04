@@ -13,4 +13,5 @@
 | 170 | Two Sum III - Data Structure Design |
 | 175 | Combine Two Tables |
 | 217 | Contains Duplicate |
+| 231 | Power of Two |
 | 242 | Valid Anagram |
