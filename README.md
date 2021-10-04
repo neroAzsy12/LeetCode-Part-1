@@ -11,4 +11,5 @@
 | 167 | Two Sum II - Input Array is Sorted |
 | 170 | Two Sum III - Data Structure Design |
 | 175 | Combine Two Tables |
+| 217 | Contains Duplicate |
 | 242 | Valid Anagram |
