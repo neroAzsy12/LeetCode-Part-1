@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        boolean[] isVisited = new boolean[max - min + 1]; // boolean arr to keep track of nums that appear
+        boolean[] isVisited = new boolean[max - min + 1]; // boolean arr to keep track of nums that appear between max and min
         for (int num : nums) {
             if (isVisited[max - num]) {
                 return true;    // return true, if isVisited[num] has already been visited before
