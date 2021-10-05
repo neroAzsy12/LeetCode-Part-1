@@ -10,6 +10,7 @@
 | 70 | Climbing Stairs |
 | 74 | Search a 2D Matrix |
 | 75 | Sort Colors |
+| 125 | Valid Palindrome |
 | 167 | Two Sum II - Input Array is Sorted |
 | 170 | Two Sum III - Data Structure Design |
 | 175 | Combine Two Tables |
