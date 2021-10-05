@@ -7,6 +7,7 @@
 | 3 | Longest Substring Without Repeating Characters |
 | 48 | Rotate Image |
 | 49 | Group Anagrams |
+| 70 | Climbing Stairs |
 | 74 | Search a 2D Matrix |
 | 75 | Sort Colors |
 | 167 | Two Sum II - Input Array is Sorted |
