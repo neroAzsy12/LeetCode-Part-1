@@ -5,6 +5,7 @@
 | 1 | Two Sum |
 | 2 | Add Two Numbers |
 | 3 | Longest Substring Without Repeating Characters |
+| 35 | Search Insert Position |
 | 48 | Rotate Image |
 | 49 | Group Anagrams |
 | 70 | Climbing Stairs |
