@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
 	// time complexity: O(n)
 	public boolean isValid(String s) {
-        Stack<Character> chars = new Stack<Character>();	// use a stack for LIFO order
+        	Stack<Character> chars = new Stack<Character>();	// use a stack for LIFO order
 		for(int i = 0; i < s.length(); i++) {
 			char c = s.charAt(i);
 			switch(c) {
